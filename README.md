@@ -15,3 +15,6 @@
 - SD 部分:
   - self_impletement_SD_1.ipynb: 拆整個Stable Diffusion的流程，試跑一段路程。
     - 如果本地跑不了，跑這個：https://colab.research.google.com/drive/1bVv6ugaBUHSRr-HY24cxkHc2b4t-QoBR?usp=sharing
+
+# Reference
+- https://github.com/huggingface/diffusion-models-class/blob/main/unit1/01_introduction_to_diffusers.ipynb
