@@ -76,3 +76,5 @@ Not done, i wanna do it in anthor dataset
 ## VAE
 ## Text encoder
 ## UNET
+
+![alt text](image.png)
