@@ -56,8 +56,6 @@ Here we define a class-conditioned UNet model for image generation that incorpor
 
 The model's architecture is built around a UNet2DModel that processes 28x28 pixel images. The input channels are expanded to accommodate both the image data and the class embedding information. The network's structure consists of multiple downsampling and upsampling blocks, with some blocks incorporating spatial self-attention mechanisms. Specifically, it uses three levels of resolution with channel dimensions of 32 and 64, implementing a combination of regular ResNet blocks and attention-enabled blocks for both downsampling and upsampling paths.
 
-The model's architecture is built around a UNet2DModel that processes 28x28 pixel images. The input channels are expanded to accommodate both the image data and the class embedding information. The network's structure consists of multiple downsampling and upsampling blocks, with some blocks incorporating spatial self-attention mechanisms. Specifically, it uses three levels of resolution with channel dimensions of 32 and 64, implementing a combination of regular ResNet blocks and attention-enabled blocks for both downsampling and upsampling paths.
-
 ![](./classcondition_unet_Arch.png)
 
 We are using fashion_mnist to regenerate: 
