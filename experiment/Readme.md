@@ -66,7 +66,17 @@ We are using fashion_mnist to regenerate:
 
 # DDPM parts 3
 
-Not done, i wanna do it in anthor dataset
+這裡使用了蝴蝶圖片來進行生成，差別在於嗓音是rgba四通道彩色的
+
+![](./input_data_3.png)
+
+![](./input_data_4.png)
+
+![](./predict_data_4.png)
+
+# DDPM parts 3.5
+
+![]
 
 # SD parts
 這裡我們用的 StableDiffusionPipeline 比前面幾個單元的 DDPMPipeline 複雜一點。除了 UNet 和調度器之外，管線內還有很多其它的組成部分：
