@@ -72,6 +72,8 @@ We are using fashion_mnist to regenerate:
 
 ![](./input_data_4.png)
 
+生成出來之後的蝴蝶圖片如下：
+
 ![](./predict_data_4.png)
 
 # DDPM parts 3.5
