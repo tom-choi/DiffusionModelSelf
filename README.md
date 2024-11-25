@@ -11,7 +11,8 @@
   - self_impletement_1.ipynb: 從mnist數據集(手寫數字)到採樣DDPM模型訓練，訓練到生成新的手寫數字。
   - self_impletement_2.ipynb: 從fashion數據集(衣服圖片)到採樣DDPM模型訓練，訓練到生成新的衣服圖片。
   - self_impletement_3.ipynb: 從自己的數據集(圖片)到採樣DDPM模型訓練，訓練到生成新的圖片。
-  - self.impletement_4.ipynb: 從已有的 https://huggingface.co/google/ddpm-celebahq-256，重新訓練一個新的圖片模型
+  - self.impletement_4.ipynb (Optional ): 從已有的 https://huggingface.co/google/ddpm-celebahq-256，重新訓練一個新的圖片模型
+    - 跑太久了，已經遷移到了Colab: 
 
 - SD 部分:
   - self_impletement_SD_1.ipynb: 拆整個Stable Diffusion的流程，試跑一段路程。

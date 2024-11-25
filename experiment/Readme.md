@@ -4,7 +4,7 @@ Diffusion models operate on a fascinating principle of gradually transforming da
 
 # DPPM parts 1
 
-The model's predictions become less accurate when dealing with heavily noised images. When noise levels are low, the model can make accurate predictions about the original image, but as noise increases to maximum levels, the model tends to produce blurry, generic outputs that represent an average of the training dataset.
+The DDPM's predictions become less accurate when dealing with heavily noised images. When noise levels are low, the model can make accurate predictions about the original image, but as noise increases to maximum levels, the model tends to produce blurry, generic outputs that represent an average of the training dataset.
 
 ![](./input_data_1.png)
 
