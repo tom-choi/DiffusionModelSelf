@@ -1,0 +1,13 @@
+{
+  "_class_name": "DDPMPipeline",
+  "_diffusers_version": "0.31.0",
+  "_name_or_path": "google/ddpm-celebahq-256",
+  "scheduler": [
+    "diffusers",
+    "DDIMScheduler"
+  ],
+  "unet": [
+    "diffusers",
+    "UNet2DModel"
+  ]
+}
